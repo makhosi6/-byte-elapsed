@@ -1,5 +1,5 @@
 {
-  "name": " ",
+  "name": "@byte/time-elapsed",
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
